@@ -1,0 +1,1 @@
+Link til Rest Client https://marketplace.visualstudio.com/items?itemName=humao.rest-client

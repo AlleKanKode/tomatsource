@@ -1,0 +1,4 @@
+@baseurl = https://listenapi.planetradio.co.uk/api9.2/events/tar
+@dateTime = 2024-12-12 20:33:03
+
+get {{baseurl}}/{{dateTime}}/100 
