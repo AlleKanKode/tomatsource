@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 beautifulsoup4 = "^4.12.3"
 requests = "^2.32.3"
+python-dotenv = "^1.0.1"
+spotipy = "^2.24.0"
 
 
 [build-system]
