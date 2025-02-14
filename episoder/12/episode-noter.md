@@ -2,6 +2,9 @@
 
 Episode Number: 12
 
+## Link til Youtube 
+Se episoden her : https://youtube.com/live/udYl3ytdE-E
+
 ## Links omtalt i episoden
 
 - [Cython en compiler pakke til c som bruger ‘setup.py](https://pypi.org/project/Cython/#files)’
